@@ -1,0 +1,141 @@
+body {
+    font-size: 20px;
+    background-image: url("img/nen.jpg");
+}
+
+#main {
+    text-align: center;
+    width: 100%;
+}
+
+#head {
+    height: 150px;
+    background: white;
+    border: 1px black solid;
+    margin-bottom: 5px;
+}
+#head p {
+    font-size: 50px;
+    color: orangered;
+    text-align: left;
+}
+#head-link {
+    text-align: left;
+    height: 40px;
+    background:whitesmoke;
+    border: 1px black solid;
+    margin-bottom: 5px;
+}
+
+#head-link a {
+    margin-right: 5px;
+    padding-left: 150px;
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+}
+
+#head input {
+    position: absolute;
+    left: 1400px;
+    top: 40px;
+    width: 500px;
+    height: 40px;
+    border: 4px orangered solid;
+}
+
+#left {
+    width: 200px;
+    min-height: 400px;
+    float: left;
+    margin-right: 5px;
+    border: 1px black solid;
+    text-align: left;
+    padding-left: 5px;
+    color: coral;
+}
+
+#content {
+    width: 1500px;
+    min-height: 400px;
+    float: left;
+    margin-right: 5px;
+    border: 1px black solid;
+    background: aliceblue;
+}
+
+#new1 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new2 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new3 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new4 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new5 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new6 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new7 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new8 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new9 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+#new10 {
+    border: 1px black solid;
+    margin: 5px;
+    float: left;
+    width: 284px;
+    height: 300px;
+}
+
+
