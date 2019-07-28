@@ -36,17 +36,26 @@ body {
     display: block;
     color: blue;
     text-align: center;
+    cursor: e-resize;
 }
 
 #head input {
     position: absolute;
-    left: 1400px;
+    left: 1200px;
     top: 40px;
     width: 500px;
     height: 40px;
     border: 4px orangered solid;
 }
-
+#head button {
+    position: absolute;
+    left: 1701px;
+    top: 40px;
+    width: 60px;
+    height: 40px;
+    border: 4px orangered solid;
+    background: orangered;
+}
 #left {
     width: 200px;
     min-height: 400px;
